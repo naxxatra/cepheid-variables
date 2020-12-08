@@ -316,7 +316,6 @@ refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_
 
 
 # W UMa
-\framesubtitle{{\bf W} {\bf U}rsa {\bf Ma}joris}
 
 - Overcontact systems with components of different mass but very similar temperatures
 - Details of structure are not well-understood
