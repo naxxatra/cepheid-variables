@@ -3,4 +3,4 @@ layout: default
 ---
 #test!
 
-[Variables](https://naxxatra-sci.github.io/cepheid-variables/Variables)
+[Variables](https://naxxatra.github.io/cepheid-variables/Variables)
