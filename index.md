@@ -1,6 +1,6 @@
 ---
+title: Variable Stars
 layout: default
 ---
-#test!
 
-[Variables](https://naxxatra.github.io/cepheid-variables/Variables)
+- [Variables](https://naxxatra.github.io/cepheid-variables/Variables) by Jishnu P Das.
