@@ -5,8 +5,8 @@ subtitle:
     - Naxxatra
 author:
     - \href{mailto:jishnua511@gmail.com}{Jishnu P Das}
-date:
-    - '\faCalendar  \today'
+#date:
+#    - '\faCalendar  \today'
 header-includes:
     - '\defaultfontfeatures{Extension = .otf}'
     - '\usepackage{fontawesome}'
