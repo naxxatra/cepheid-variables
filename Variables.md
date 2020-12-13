@@ -13,7 +13,7 @@
 
 # Variable stars
 
-![Classification of variables](graphics/Variable_Stars.png){height=4cm}
+<img src="graphics/Variable_Stars.png" alt="Classification of variables" height="3rem" width="auto">
 
 
 ---
@@ -34,14 +34,14 @@
 
 # The Brightness of a star
 
-![](graphics/lum.gif){height=4cm}
+<img src="graphics/lum.gif" alt="" height="3rem" width="auto">
 
 ---
 
 
 # Forces inside a star
 
-![Hydrostatic equillibrium](graphics/star.gif){height=4cm}
+<img src="graphics/star.gif" alt="Hydrostatic equillibrium" height="3rem" width="auto">
 
 ---
 
@@ -85,21 +85,21 @@ $$L \approx M^{3.5}$$
 
 # Cepheid variable
 
-![LC](graphics/ceph.jpeg){height=4cm}
+<img src="graphics/ceph.jpeg" alt="LC" height="3rem" width="auto">
 
 ---
 
 
 # Cepheid variables
 
-![Period vs Absolute Magnitude](graphics/Period-Luminosity.png){height=4cm}
+<img src="graphics/Period-Luminosity.png" alt="Period vs Absolute Magnitude" height="3rem" width="auto">
 
 ---
 
 
 # Magnitudes
 
-![Comparing Magnitudes](graphics/magnitudes.jpeg){height=4cm}
+<img src="graphics/magnitudes.jpeg" alt="Comparing Magnitudes" height="3rem" width="auto">
 
 ---
 
@@ -156,14 +156,14 @@ or in logarithmic terms the formula\footnote{This formula is called the distance
 
 # RR Lyrae Variables
 
-![Typical Lightcurve](graphics/RR.png){height=4cm}
+<img src="graphics/RR.png" alt="Typical Lightcurve" height="3rem" width="auto">
 
 ---
 
 
 # RR Lyrae Variables
 
-![](graphics/HRdiag.png){height=4cm}
+<img src="graphics/HRdiag.png" alt="" height="3rem" width="auto">
 
 
 ---
@@ -171,7 +171,7 @@ or in logarithmic terms the formula\footnote{This formula is called the distance
 
 # RR Lyrae Variables
 
-![On HR diagram](graphics/CMD.png){height=4cm}
+<img src="graphics/CMD.png" alt="On HR diagram" height="3rem" width="auto">
 
 
 ---
@@ -211,21 +211,21 @@ The Roche lobe is the region around a star in a binary system within which orbit
 
 # Binaries
 
-![Detached binaries](graphics/detached.png){height=4cm}
+<img src="graphics/detached.png" alt="Detached binaries" height="3rem" width="auto">
 
 ---
 
 
 # Binaries
 
-![Semi-detached binaries](graphics/semidetached.png){height=4cm}
+<img src="graphics/semidetached.png" alt="Semi-detached binaries" height="3rem" width="auto">
 
 ---
 
 
 # Binaries
 
-![Contact binaries](graphics/contact.png){height=4cm}
+<img src="graphics/contact.png" alt="Contact binaries" height="3rem" width="auto">
 
 ---
 
@@ -247,7 +247,7 @@ The Roche lobe is the region around a star in a binary system within which orbit
 
 # Algols
 
-![Typical lightcurve](graphics/algol.jpeg){height=4cm}
+<img src="graphics/algol.jpeg" alt="Typical lightcurve" height="3rem" width="auto">
 
 refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_of_binary_stars/algol.html)
 
@@ -267,7 +267,7 @@ refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_
 
 # Algol
 
-![Artist's render](graphics/algol_art.jpg){height=4cm}
+<img src="graphics/algol_art.jpg" alt="Artist's render" height="3rem" width="auto">
 
 
 ---
@@ -285,14 +285,14 @@ refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_
 
 # $\beta$ Lyrae
 
-![Typical lightcurve](graphics/betalyrae.jpeg){height=4cm}
+<img src="graphics/betalyrae.jpeg" alt="Typical lightcurve" height="3rem" width="auto">
 
 ---
 
 
 # $\beta$ Lyrae
 
-![](graphics/BLanim.gif){height=4cm}
+<img src="graphics/BLanim.gif" alt="" height="3rem" width="auto">
 
 [```animation```](https://commons.wikimedia.org/wiki/File:Beta_Lyrae-type_variable_binary_star_animation_3.gif)
 
@@ -311,18 +311,21 @@ refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_
 
 # W UMa
 
-![Artist's render](graphics/wuma_art.jpg){height=4cm}
+<img src="graphics/wuma_art.jpg" alt="Artist's render" height="3rem" width="auto">
 
 ---
 
 
 # W UMa
 
-![Typical lightcurve](graphics/wuma.jpg){height=4cm}
+<img src="graphics/wuma.jpg" alt="Typical lightcurve" height="3rem" width="auto">
 
 ---
 
 # Extra Credits
 
-![Interesting features](graphics/binaries.gif){height=4cm}
+<img src="graphics/binaries.gif" alt="Interesting features" height="3rem" width="auto">
 
+<!-- regex for replacing images -->
+<!-- !\[([a-zA-Z\s\'\.-]*)\]\(([a-zA-Z\s\'\.\/\_-]*)\) -->
+<!-- <img src="\2" alt="\1" height="3rem" width="auto"> -->
