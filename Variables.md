@@ -13,7 +13,7 @@
 
 # Variable stars
 
-<img src="graphics/Variable_Stars.png" alt="Classification of variables" height="3rem" width="auto">
+<img src="graphics/Variable_Stars.png" alt="Classification of variables" height="400px" width="auto">
 
 
 ---
@@ -34,14 +34,14 @@
 
 # The Brightness of a star
 
-<img src="graphics/lum.gif" alt="" height="3rem" width="auto">
+<img src="graphics/lum.gif" alt="" height="400px" width="auto">
 
 ---
 
 
 # Forces inside a star
 
-<img src="graphics/star.gif" alt="Hydrostatic equillibrium" height="3rem" width="auto">
+<img src="graphics/star.gif" alt="Hydrostatic equillibrium" height="400px" width="auto">
 
 ---
 
@@ -85,21 +85,21 @@ $$L \approx M^{3.5}$$
 
 # Cepheid variable
 
-<img src="graphics/ceph.jpeg" alt="LC" height="3rem" width="auto">
+<img src="graphics/ceph.jpeg" alt="LC" height="400px" width="auto">
 
 ---
 
 
 # Cepheid variables
 
-<img src="graphics/Period-Luminosity.png" alt="Period vs Absolute Magnitude" height="3rem" width="auto">
+<img src="graphics/Period-Luminosity.png" alt="Period vs Absolute Magnitude" height="400px" width="auto">
 
 ---
 
 
 # Magnitudes
 
-<img src="graphics/magnitudes.jpeg" alt="Comparing Magnitudes" height="3rem" width="auto">
+<img src="graphics/magnitudes.jpeg" alt="Comparing Magnitudes" height="400px" width="auto">
 
 ---
 
@@ -156,14 +156,14 @@ or in logarithmic terms the formula\footnote{This formula is called the distance
 
 # RR Lyrae Variables
 
-<img src="graphics/RR.png" alt="Typical Lightcurve" height="3rem" width="auto">
+<img src="graphics/RR.png" alt="Typical Lightcurve" height="400px" width="auto">
 
 ---
 
 
 # RR Lyrae Variables
 
-<img src="graphics/HRdiag.png" alt="" height="3rem" width="auto">
+<img src="graphics/HRdiag.png" alt="" height="400px" width="auto">
 
 
 ---
@@ -171,7 +171,7 @@ or in logarithmic terms the formula\footnote{This formula is called the distance
 
 # RR Lyrae Variables
 
-<img src="graphics/CMD.png" alt="On HR diagram" height="3rem" width="auto">
+<img src="graphics/CMD.png" alt="On HR diagram" height="400px" width="auto">
 
 
 ---
@@ -211,21 +211,21 @@ The Roche lobe is the region around a star in a binary system within which orbit
 
 # Binaries
 
-<img src="graphics/detached.png" alt="Detached binaries" height="3rem" width="auto">
+<img src="graphics/detached.png" alt="Detached binaries" height="400px" width="auto">
 
 ---
 
 
 # Binaries
 
-<img src="graphics/semidetached.png" alt="Semi-detached binaries" height="3rem" width="auto">
+<img src="graphics/semidetached.png" alt="Semi-detached binaries" height="400px" width="auto">
 
 ---
 
 
 # Binaries
 
-<img src="graphics/contact.png" alt="Contact binaries" height="3rem" width="auto">
+<img src="graphics/contact.png" alt="Contact binaries" height="400px" width="auto">
 
 ---
 
@@ -247,7 +247,7 @@ The Roche lobe is the region around a star in a binary system within which orbit
 
 # Algols
 
-<img src="graphics/algol.jpeg" alt="Typical lightcurve" height="3rem" width="auto">
+<img src="graphics/algol.jpeg" alt="Typical lightcurve" height="400px" width="auto">
 
 refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_of_binary_stars/algol.html)
 
@@ -267,7 +267,7 @@ refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_
 
 # Algol
 
-<img src="graphics/algol_art.jpg" alt="Artist's render" height="3rem" width="auto">
+<img src="graphics/algol_art.jpg" alt="Artist's render" height="400px" width="auto">
 
 
 ---
@@ -285,14 +285,14 @@ refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_
 
 # $\beta$ Lyrae
 
-<img src="graphics/betalyrae.jpeg" alt="Typical lightcurve" height="3rem" width="auto">
+<img src="graphics/betalyrae.jpeg" alt="Typical lightcurve" height="400px" width="auto">
 
 ---
 
 
 # $\beta$ Lyrae
 
-<img src="graphics/BLanim.gif" alt="" height="3rem" width="auto">
+<img src="graphics/BLanim.gif" alt="" height="400px" width="auto">
 
 [```animation```](https://commons.wikimedia.org/wiki/File:Beta_Lyrae-type_variable_binary_star_animation_3.gif)
 
@@ -311,21 +311,21 @@ refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_
 
 # W UMa
 
-<img src="graphics/wuma_art.jpg" alt="Artist's render" height="3rem" width="auto">
+<img src="graphics/wuma_art.jpg" alt="Artist's render" height="400px" width="auto">
 
 ---
 
 
 # W UMa
 
-<img src="graphics/wuma.jpg" alt="Typical lightcurve" height="3rem" width="auto">
+<img src="graphics/wuma.jpg" alt="Typical lightcurve" height="400px" width="auto">
 
 ---
 
 # Extra Credits
 
-<img src="graphics/binaries.gif" alt="Interesting features" height="3rem" width="auto">
+<img src="graphics/binaries.gif" alt="Interesting features" height="400px" width="auto">
 
 <!-- regex for replacing images -->
 <!-- !\[([a-zA-Z\s\'\.-]*)\]\(([a-zA-Z\s\'\.\/\_-]*)\) -->
-<!-- <img src="\2" alt="\1" height="3rem" width="auto"> -->
+<!-- <img src="\2" alt="\1" height="400px" width="auto"> -->
