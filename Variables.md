@@ -1,19 +1,3 @@
----
-title:
-    - Variable stars
-subtitle:
-    - Naxxatra
-author:
-    - \href{mailto:jishnua511@gmail.com}{Jishnu P Das}
-#date:
-#    - '\faCalendar  \today'
-header-includes:
-    - '\defaultfontfeatures{Extension = .otf}'
-    - '\usepackage{fontawesome}'
-    - \input{theme1.tex}
-numbersections: true
----
-
 # Outline
 
 - Variable stars
@@ -29,7 +13,7 @@ numbersections: true
 
 # Variable stars
 
-![Classification of variables](graphics/Variable_Stars.png)
+![Classification of variables](graphics/Variable_Stars.png){height=4cm}
 
 
 ---
@@ -50,14 +34,14 @@ numbersections: true
 
 # The Brightness of a star
 
-![](graphics/lum.gif)
+![](graphics/lum.gif){height=4cm}
 
 ---
 
 
 # Forces inside a star
 
-![Hydrostatic equillibrium](graphics/star.gif)
+![Hydrostatic equillibrium](graphics/star.gif){height=4cm}
 
 ---
 
@@ -101,21 +85,21 @@ $$L \approx M^{3.5}$$
 
 # Cepheid variable
 
-![LC](graphics/ceph.jpeg)
+![LC](graphics/ceph.jpeg){height=4cm}
 
 ---
 
 
 # Cepheid variables
 
-![Period vs Absolute Magnitude](graphics/Period-Luminosity.png)
+![Period vs Absolute Magnitude](graphics/Period-Luminosity.png){height=4cm}
 
 ---
 
 
 # Magnitudes
 
-![Comparing Magnitudes](graphics/magnitudes.jpeg)
+![Comparing Magnitudes](graphics/magnitudes.jpeg){height=4cm}
 
 ---
 
@@ -172,14 +156,14 @@ or in logarithmic terms the formula\footnote{This formula is called the distance
 
 # RR Lyrae Variables
 
-![Typical Lightcurve](graphics/RR.png)
+![Typical Lightcurve](graphics/RR.png){height=4cm}
 
 ---
 
 
 # RR Lyrae Variables
 
-![](graphics/HRdiag.png)
+![](graphics/HRdiag.png){height=4cm}
 
 
 ---
@@ -187,7 +171,7 @@ or in logarithmic terms the formula\footnote{This formula is called the distance
 
 # RR Lyrae Variables
 
-![On HR diagram](graphics/CMD.png)
+![On HR diagram](graphics/CMD.png){height=4cm}
 
 
 ---
@@ -227,21 +211,21 @@ The Roche lobe is the region around a star in a binary system within which orbit
 
 # Binaries
 
-![Detached binaries](graphics/detached.png)
+![Detached binaries](graphics/detached.png){height=4cm}
 
 ---
 
 
 # Binaries
 
-![Semi-detached binaries](graphics/semidetached.png)
+![Semi-detached binaries](graphics/semidetached.png){height=4cm}
 
 ---
 
 
 # Binaries
 
-![Contact binaries](graphics/contact.png)
+![Contact binaries](graphics/contact.png){height=4cm}
 
 ---
 
@@ -263,7 +247,7 @@ The Roche lobe is the region around a star in a binary system within which orbit
 
 # Algols
 
-![Typical lightcurve](graphics/algol.jpeg)
+![Typical lightcurve](graphics/algol.jpeg){height=4cm}
 
 refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_of_binary_stars/algol.html)
 
@@ -283,7 +267,7 @@ refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_
 
 # Algol
 
-![Artist's render](graphics/algol_art.jpg)
+![Artist's render](graphics/algol_art.jpg){height=4cm}
 
 
 ---
@@ -301,14 +285,14 @@ refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_
 
 # $\beta$ Lyrae
 
-![Typical lightcurve](graphics/betalyrae.jpeg)
+![Typical lightcurve](graphics/betalyrae.jpeg){height=4cm}
 
 ---
 
 
 # $\beta$ Lyrae
 
-![](graphics/BLanim.gif)
+![](graphics/BLanim.gif){height=4cm}
 
 [```animation```](https://commons.wikimedia.org/wiki/File:Beta_Lyrae-type_variable_binary_star_animation_3.gif)
 
@@ -327,18 +311,18 @@ refer : [```animation```](http://www.vikdhillon.staff.shef.ac.uk/seminars/lives_
 
 # W UMa
 
-![Artist's render](graphics/wuma_art.jpg)
+![Artist's render](graphics/wuma_art.jpg){height=4cm}
 
 ---
 
 
 # W UMa
 
-![Typical lightcurve](graphics/wuma.jpg)
+![Typical lightcurve](graphics/wuma.jpg){height=4cm}
 
 ---
 
 # Extra Credits
 
-![Interesting features](graphics/binaries.gif)
+![Interesting features](graphics/binaries.gif){height=4cm}
 
