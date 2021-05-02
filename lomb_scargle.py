@@ -9,19 +9,13 @@ import numpy as np
 from astropy.stats import LombScargle
 import matplotlib.pyplot as plt
 
-#%%
-data=np.loadtxt(
-        '/home/jishnu/path_to_file/',
-        delimiter='\t',
-        skiprows=1
-        ).astype(np.float)
-
-t=data[:,0]
-y=data[:,1]
-e=data[:,2]
 
 #%%
-Period = 0
+period = 0
+
+# example
+time = [1,2,3,4,5,6,7,8,9]
+flux = [1,1.2,1.3,2,1.3,1.2,1,1.2,1.3]
 
 #%%
 def lomb_scargle(t,y):
