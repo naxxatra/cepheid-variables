@@ -21,12 +21,11 @@ y=data[:,1]
 e=data[:,2]
 
 #%%
-frequency,period,periody,power = [],[],[],[]
 Period = 0
 
 #%%
 def lomb_scargle(t,y):
-    global frequency,power,period,periody,Period
+    
     frequency, power = LombScargle(t, y).autopower(maximum_frequency=8)
     period = 1/frequency
     periody = period/365
@@ -38,8 +37,10 @@ def lomb_scargle(t,y):
         plt.plot(frequency, power)
         plt.show()
         #
-    Period = 1/frequency[np.argmax(power)]
-    return 1/frequency[np.argmax(power)]
+    period_calculated = 1/frequency[np.argmax(power)]
+    return frequency, period_calculated, periody, power 
+
+frequency,period,periody,power = lombscargle(time,flux)
 
 #%%
 def phase_fold(t,y,period):
